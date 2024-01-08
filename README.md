@@ -1,1 +1,1 @@
-My Higher Level Programming Projects in the ALX SE programme
+This directory contains the tasks for the project 0x0A. Python - Inheritance in the ALXSE Programme
